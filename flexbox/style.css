@@ -1,0 +1,45 @@
+#row{
+    background-color: blue;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#column{
+    background-color: blue;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black;
+    width:200px;
+    height: 200px;
+    background-color: orange;
+    color: black;
+    font-weight: 600;
+    font-size: 30px;
+    border-radius: 20px;
+}

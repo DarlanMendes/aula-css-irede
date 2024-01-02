@@ -17,7 +17,8 @@ body{
 /* Seletor de class '.' */
 
 .seletor{
-    color: rgb(247, 246, 246);
+     color: rgb(247, 246, 246); 
+    
     padding: 1rem;
 }
 
@@ -82,17 +83,17 @@ header{
   }
   
   .container input:focus-visible {
-    outline: 2px solid green;
+    outline: none;
     
   }
   /* -----Pseudo elemento ------ */
   /* ::before e ::after são usados para adicionar conteúdo antes ou após um elemento em CSS*/
   .pseudo-elemento-before::before{
-    content: "Esse conteúdo foi inserido através de css";
+    /* content: "Esse conteúdo foi inserido através de css"; */
     /* Você pode estlizar o conteúdo */
-    color:blue;
+    /* color:blue;
     background-color: #ccc;
-    padding: 2px;
+    padding: 2px; */
   }
   .pseudo-elemento-after::after{
     content: "Esse conteúdo foi inserido através de css";
