@@ -1,5 +1,5 @@
 ## Exercício de Sala de Aula
-### 01 - Recrie o layout da figura abaixo seguindo a descrição da lista da figura. Caso precise, faça a busca pela as propriedades no site: www.w3school.com. (PS: Aplique a estilização através de link a folha de estilo).
+### 01 - Recrie o layout da figura abaixo seguindo a descrição da lista da figura. Caso precise, faça a busca pela as propriedades no site: www.w3schools.com. (PS: Aplique a estilização através de link a folha de estilo).
 ![imagem base para exercício 01](./image/exercicio%20css.png)
 ### Como base HTML para aplicação do css utilize:
 ![imagem base para exercício 01](./image/exercicio%2001%20css.png)

@@ -84,7 +84,6 @@ header{
   
   .container input:focus-visible {
     outline: none;
-    
   }
   /* -----Pseudo elemento ------ */
   /* ::before e ::after são usados para adicionar conteúdo antes ou após um elemento em CSS*/
@@ -141,3 +140,4 @@ form{
       
     
 }
+
