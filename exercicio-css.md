@@ -24,3 +24,7 @@
 
 ### 03 - Replique a landpage disponibilizada através de figma utilizando apenas html e css. Utilize toda a sua criatividade e aplique o máximo de conhecimento adquirido.
 Link : [Link para figma](https://www.figma.com/file/ljBmhhhS5rGPVQFoSa4nB1/Landing-Page-Template-(Community)?type=design&node-id=0%3A1&mode=design&t=QOi5ugDQrHfrFxdi-1)
+## Responsividade
+
+### 04 - O propósito desta atividade é colocar em prática os princípios de responsividade no design fornecido na pasta "./media-query/questão04", localizada no mesmo diretório desta tarefa. O desafio consiste em adaptar o layout para proporcionar uma experiência otimizada tanto em tablets quanto em smartphones. Os arquivos essenciais para esta tarefa são o "index.html" e o "style.css". Concentre-se exclusivamente no arquivo "style.css". Sinta-se à vontade para expressar sua criatividade e buscar a excelência na execução dessa tarefa.
+
