@@ -28,3 +28,4 @@ Link : [Link para figma](https://www.figma.com/file/ljBmhhhS5rGPVQFoSa4nB1/Landi
 
 ### 04 - O propósito desta atividade é colocar em prática os princípios de responsividade no design fornecido na pasta "./media-query/questão04", localizada no mesmo diretório desta tarefa. O desafio consiste em adaptar o layout para proporcionar uma experiência otimizada tanto em tablets quanto em smartphones. Os arquivos essenciais para esta tarefa são o "index.html" e o "style.css". Concentre-se exclusivamente no arquivo "style.css". Sinta-se à vontade para expressar sua criatividade e buscar a excelência na execução dessa tarefa.
 
+### 05 - Continuando a 4º questão, agora você deverá estilizar o navbar de modo que para telas menores que 720px o menu de navegação tenho um comportamento de menu hamburguer. Utilize a propriedade display e pseudoclasses para construir essa interatividade.
